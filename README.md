@@ -22,3 +22,6 @@ História: A narrativa de Weller é tecida com os fios do destino e da determina
 ![image](https://github.com/ozummmm/Weller-Jogo-Trabalho/assets/163336724/327aea28-547b-4f73-ab58-937bd0562082)
 
 Aceite o desafio de Weller e lute para se tornar o herói lendário deste mundo assolado!
+
+![image](https://github.com/ozummmm/Weller-Jogo-Trabalho/assets/163336724/d201bd6b-3c5c-4872-a31b-d4d32ad8d3bb)
+
